@@ -1,1 +1,1 @@
-# Stocks-CovarianceCalclulation-UsingHive
+# Stocks-CovarianceCalculation-UsingHive
